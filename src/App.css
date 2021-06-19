@@ -22,9 +22,9 @@ input {
   padding: 18px;
   font-size: larger;
 }
-label,
-.check {
-  font-size: 55px;
+label  {
+  font-size: 45px;
   height: 35px;
   width: 55px;
+  margin-bottom: 20px;
 }
